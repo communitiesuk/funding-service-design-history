@@ -4,7 +4,11 @@
 
 {% block content %}
   {{ appDocumentHeader({
-    title: title | noOrphans
+  title: title | noOrphans,
+  date: date,
+  modified: modified,
+  author: author,
+  authors: authors
   }) }}
 
   {% call appProseScope() %}

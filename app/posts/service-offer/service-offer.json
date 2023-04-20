@@ -1,0 +1,6 @@
+{
+  "tags": ["service-offer"],
+  "eleventyNavigation": {
+    "parent": "Service-offer"
+  }
+}

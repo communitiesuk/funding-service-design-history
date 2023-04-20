@@ -5,11 +5,14 @@ module.exports = function (eleventyConfig) {
     stylesheets: [
       '/styles/application.css'
     ],
+    brandColour: '#012169',
     headingPermalinks: true,
     header: {
       organisationLogo: false,
-      productName: 'Design history',
+      organisationName: 'DLUHC',
+      productName: 'Access funding [to do a thing]',
       search: {
+        label: 'Search',
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
       }

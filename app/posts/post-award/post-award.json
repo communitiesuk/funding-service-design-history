@@ -1,0 +1,6 @@
+{
+  "tags": ["post-award"],
+  "eleventyNavigation": {
+    "parent": "Post-award"
+  }
+}
