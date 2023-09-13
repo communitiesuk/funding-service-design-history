@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Pre-award
-description: Application and assessment
+title: Access funding
+description: Pre-award; Reducing the barrier to access funding while increasing accurate and equitable decision making
 pagination:
   data: collections.pre-award
   reverse: true

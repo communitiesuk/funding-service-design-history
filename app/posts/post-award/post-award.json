@@ -1,6 +1,7 @@
 {
-  "tags": ["post-award"],
   "eleventyNavigation": {
-    "parent": "Post-award"
-  }
+    "parent": "Report funding progress",
+    "key": "Post-award history"
+  },
+  "tags": ["post-award"]
 }

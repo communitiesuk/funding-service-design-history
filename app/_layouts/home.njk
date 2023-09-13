@@ -1,5 +1,8 @@
 {% extends "layouts/product.njk" %}
 
+{# Load any GOV.UK Frontend components #}
+{% from "govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+
 {% block content %}
   {{ content }}
   <div class="govuk-grid-row">
@@ -30,15 +33,32 @@
       {% endif %}
     {# List sections (pages with a parent that is the homepage) if homepage has no pagination key set #}
     {% elif eleventyNavigation.key == options.homeKey %}
+
     <div class="govuk-grid-column-full">
       <h2 class="govuk-heading-l govuk-!-font-size-27">Learn more</h2>
     </div>
-    {% for item in collections.learn | eleventyNavigation(options.homeKey) %}
-      <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
-        <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-          <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
-        </h3>
-        <p class="govuk-body">{{ item.excerpt }}</p>
+    {% for item in collections.learn | eleventyNavigation(options.homeKey) %}    
+    
+      <section class="govuk-grid-column-one-third govuk-!-margin-bottom-6">
+
+      <a href="{{ item.url | url | pretty }}">
+        <div class="card">
+          <div class="card-text-header">
+            <div class="card--text-header-container">
+              <h2 class="govuk-heading-m">
+              {{ item.title }}
+              </h2>
+              <p class="govuk-body-s">
+                {{ item.date }}
+              </p>
+            </div>
+          </div>
+              <div class="card-container">
+              <p> {{ item.excerpt }}</p>           
+            </div>
+        </div>
+        </a>
+
       </section>
     {% endfor %}
       <div class="govuk-grid-column-full">

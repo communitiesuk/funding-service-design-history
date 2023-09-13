@@ -1,8 +1,10 @@
 ---
 homepage: true
 layout: home
-title: A funding service <br />design history
-description: Reducing the barrier to access funding while increasing accurate and equitable decision making.
+title: Design history
+description: Transforming how the department delivers funding
 sections:
   title: Design history
+eleventyNavigation:
+  key: Home
 ---

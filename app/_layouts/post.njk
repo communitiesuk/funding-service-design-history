@@ -2,20 +2,35 @@
 
 {% from "screenshots/macro.njk" import appScreenshots %}
 
+{% block main %}
+  {{ xGovukMasthead({
+    title: {
+      html: title | smart
+    } if title,
+    description: {
+      html: description | markdown("inline") | noOrphans
+    } if description,
+    breadcrumbs: {
+      classes: "govuk-!-display-none-print govuk-!-margin-bottom-0",
+      items: breadcrumbItems
+    } if showBreadcrumbs
+  }) }}
+  
+
+  <div class="govuk-width-container">
+    {% block beforeContent %}{% endblock %}
+    <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
+
 {% block content %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
-      {{ appDocumentHeader({
-        title: title | noOrphans,
-        date: date,
-        modified: modified,
-        author: author,
-        authors: authors
-      }) }}
+        <p class="app-document-header__metadata">
+        <span class="govuk-visually-hidden">Posted on </span><time datetime="{{ date | date }}">{{ date | date("d LLLL y") }}</time>
+        </p>
     </div>
 
     <div class="govuk-grid-column-two-thirds-from-desktop">
-      {% call appProseScope() %}
+    {% call appProseScope() %}
         {% if image -%}
           <figure>
             <img src="{{ image.src }}" alt="{{ image.alt }}">
@@ -40,5 +55,8 @@
         {% include "layouts/shared/related.njk" %}
       </div>
     {% endif %}
+  </div>
+{% endblock %}
+ </main>
   </div>
 {% endblock %}

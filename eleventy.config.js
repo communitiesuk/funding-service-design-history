@@ -10,11 +10,29 @@ module.exports = function (eleventyConfig) {
     header: {
       organisationLogo: false,
       organisationName: 'DLUHC',
-      productName: 'Access funding [to do a thing]',
+      productName: 'Funding Service Design',
       search: {
         label: 'Search',
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
+      }
+    },
+    footer: {
+      meta: {
+        items: [
+          {
+            href: "#",
+            text: "Item 1"
+          },
+          {
+            href: "#",
+            text: "Item 2"
+          },
+          {
+            href: "#",
+            text: "Item 3"
+          }
+        ]
       }
     }
   })
@@ -23,6 +41,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
 
   // Config
+
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',

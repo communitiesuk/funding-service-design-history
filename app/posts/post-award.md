@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Post-award
-description: Delivery, monitoring and evaluation
+title: Report funding progress
+description: Post-award; delivery, monitoring and evaluation
 pagination:
   data: collections.post-award
   reverse: true

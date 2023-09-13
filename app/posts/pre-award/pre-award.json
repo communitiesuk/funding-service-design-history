@@ -1,6 +1,7 @@
 {
-  "tags": ["pre-award"],
   "eleventyNavigation": {
-    "parent": "Pre-award"
-  }
+    "parent": "Access funding",
+    "key": "Pre-award history"
+  },
+"tags": ["pre-award"]
 }

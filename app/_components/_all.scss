@@ -1,2 +1,39 @@
 @import "email/email";
 @import "screenshots/screenshots";
+
+.card {
+    position: relative;
+    background-color: #f3f2f1;
+    border-bottom: 3px solid #012169;
+    max-width: 400px;
+    text-decoration: none;
+    :hover {
+        background-color: #012169;
+    }
+}
+
+.card-text-header {
+    background-color: #012169;
+    color: #fff;
+}
+
+.card-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100px;
+}
+
+.card--text-header-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 90px;
+    color: #fff;
+}
+
+.card--text-header-container .govuk-heading-m {
+    color: #fff;
+}

@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Funding design principles
 description: Six principles proven to make your fund perform.
+date: 2023-04-18
+author: Charles Reynolds-Talbot
 tags: learn
 ---
 

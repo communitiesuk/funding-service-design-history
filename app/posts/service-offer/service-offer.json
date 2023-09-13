@@ -1,6 +1,7 @@
 {
-  "tags": ["service-offer"],
   "eleventyNavigation": {
-    "parent": "Service-offer"
-  }
+    "parent": "Service offer",
+    "key": "Service offer history"
+  },
+"tags": ["service-offer"]
 }
