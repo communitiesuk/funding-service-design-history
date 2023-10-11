@@ -1,6 +1,12 @@
 @import "email/email";
 @import "screenshots/screenshots";
 
+.grid--cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    grid-gap: 30px;
+}
+
 .card {
     position: relative;
     background-color: #f3f2f1;
