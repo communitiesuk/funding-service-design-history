@@ -41,23 +41,21 @@
     
       <section class="govuk-grid-column-one-third govuk-!-margin-bottom-6">
 
-      <a href="{{ item.url | url | pretty }}">
+      
         <div class="card">
+        <a href="{{ item.url | url | pretty }}">
           <div class="card-text-header">
             <div class="card--text-header-container">
               <h2 class="govuk-heading-m">
               {{ item.title }}
               </h2>
-              <p class="govuk-body-s">
-                {{ item.date }}
-              </p>
             </div>
           </div>
               <div class="card-container">
               <p> {{ item.excerpt }}</p>           
             </div>
+            </a>
         </div>
-        </a>
 
       </section>
     {% endfor %}
