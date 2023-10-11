@@ -8,16 +8,31 @@
 }
 
 .card {
-    position: relative;
+    // position: relative;
+    display: flex;
     background-color: #f3f2f1;
     border-bottom: 3px solid #012169;
-    max-width: 400px;
+    // max-width: 400px;
+    :hover {
+        background-color: #012169;
+        color: #fff;
+    }
     :hover p, :focus-within p {
         background-color: #012169;
         color: #fff;
     }
     a, .govuk-link {
         text-decoration: none;
+    }
+    a {
+        display: flex;
+        flex-direction: column;
+    }
+    a .card--text-header-container .govuk-heading-m {
+        padding: 20px;
+        margin: 0;
+        background-color: #012169;
+        color: #fff;
     }
 }
 
@@ -35,12 +50,5 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-
-a .card--text-header-container .govuk-heading-m {
-    padding: 20px;
-    margin: 0;
-    background-color: #012169;
-    color: #fff;
 }
 
