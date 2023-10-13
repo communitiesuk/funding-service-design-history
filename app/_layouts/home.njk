@@ -40,7 +40,7 @@
     
     <div class="govuk-grid-column-full">
       <section class="grid--cards govuk-!-margin-bottom-6">
-    {% for item in collections.learn | eleventyNavigation(options.homeKey) %}    
+    {% for item in collections.learn | eleventyNavigation(options.homeKey) | reverse %}    
         <div class="card">
         <a href="{{ item.url | url | pretty }}">
           <div class="card-text-header">

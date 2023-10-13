@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Identify patterns for asking questions
-description: We ensured there would be a limited number of 'question patterns' to ensure it is clear to applicants how to answer a question.
+title: APP2. Identify patterns for asking questions
+description: Enabling data to be collected, based only on what the department needed to make a decision, in a structured and consistent way.
 date: 2023-10-11
 author: Charles Reynolds-Talbot
 tags: learn
@@ -12,7 +12,7 @@ tags: learn
 We saw through research that most applications used open-ended questions resulting in long and unstructured responses that contained more information than required. 
 
 ## What we did
-By identifying pattens for how we ask questions, we were able to collect data based on what the department needed to make a decision in a structured and consistent way.
+By identifying pattens for how we ask questions, we were able to collect data based on what the department needed to make a decision, in a structured and consistent way.
 
 ## Question pattens
 
