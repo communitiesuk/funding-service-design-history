@@ -5,6 +5,14 @@ description: ///DRAFTING/// Summary
 date: 2023-10-11
 author: Martin Wright
 tags: learn
+screenshots:
+  items:
+    - text: Word limit component 
+      src: word-limit-component.png
+      caption: Screenshot of the GOV.UK word limit component used
+    - text: Word limit example use
+      src: word-limit-example.png
+      caption: Screenshot of word limits in action
 ---
 
 ## The problem
@@ -17,5 +25,3 @@ We made UI changes to clearly indicate the word limit, updating as more words ar
 
 ## Decisions
 This has become part of our fund onboarding process and question protocol workshops, working with fund teams to match detail expected with the importance of the question per the criteria
-
-
