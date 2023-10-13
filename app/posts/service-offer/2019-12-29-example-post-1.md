@@ -6,8 +6,7 @@ screenshots:
   items:
     - text: Design history index
       src: 01-design-history-index.png
-      caption: |
-        You can include captions with each image, and each caption can include markdown. This is a screenshot of the [index page](/).
+      caption: You can include captions with each image, and each caption can include markdown. This is a screenshot of the [index page](/).
     - text: Search results
       src: 02-search-results.png
     - text: A design history post

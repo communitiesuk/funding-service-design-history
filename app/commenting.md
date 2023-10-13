@@ -4,7 +4,7 @@ title: ASS3. Enable commentary to be considered as part of the decision making p
 description: ///DRAFTING/// We ensured commentary is considered as part of the decision making process
 date: 2023-10-13
 author: Charles Reynolds-Talbot
-tags: learn
+tags: ['learn', 'pre-award'] 
 screenshots:
   items:
     - text: Commenting component

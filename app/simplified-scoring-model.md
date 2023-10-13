@@ -4,7 +4,7 @@ title: ASS4. Helping assessors to score applications wth a simplified model
 description: ///DRAFTING/// Introducing standardised scoring to reduce assessor training and improve cross-fund evaluation and comparison
 date: 2023-10-13
 author: Charles Reynolds-Talbot
-tags: learn
+tags: ['learn', 'pre-award'] 
 screenshots:
   items:
     - text: Scoring and rationale component

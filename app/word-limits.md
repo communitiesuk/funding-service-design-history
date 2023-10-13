@@ -4,7 +4,7 @@ title: APP6. We introduced word limits to questions to help applicants understan
 description: ///DRAFTING/// Summary
 date: 2023-10-11
 author: Martin Wright
-tags: learn
+tags: ['learn', 'pre-award'] 
 screenshots:
   items:
     - text: Word limit component 

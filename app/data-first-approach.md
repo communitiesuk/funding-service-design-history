@@ -4,7 +4,7 @@ title: APP4. We supported fund teams to take a 'data first' approach to building
 description: ///DRAFTING/// Data-first questions resulted in a more efficient application and assessment process.
 date: 2023-10-11
 author: Martin Wright
-tags: learn
+tags: ['learn', 'pre-award'] 
 ---
 
 ## The problem

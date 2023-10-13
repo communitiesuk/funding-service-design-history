@@ -4,12 +4,7 @@ title: ASS9. Assessors can tag applications in a flexible way that works for the
 description: ///DRAFTING/// Summary
 date: 2023-10-13
 author: Charles Reynolds-Talbot
-tags: learn
-screenshots:
-  items:
-    - text: Real time application data example
-      src: application-data-example.png
-      caption: Screenshot of how real time application data is presented to fund policy and assessment teams
+tags: ['learn', 'pre-award'] 
 ---
 
 ## The problem
