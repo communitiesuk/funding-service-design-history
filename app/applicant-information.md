@@ -25,4 +25,4 @@ Research with Assessors from COF Round 2 Window 1 the document uploads for busin
 This greatly impacted an assessors efficiency in assessment (having to navigate these documents to find the information that would satisfy a question), the fairness of the assessment (applicants giving themselves the advantage by including extra information that might be used to answer another question, or spending resources producing glossy and attractive documents), and the equality of assessment (some assessors willing to spend more time than others reading documentation)
 
 - [Assessor research sprint  26-27 (opens in Confluence)](https://dluhcdigital.atlassian.net/wiki/spaces/FS/pages/5236144/Sprint+26-27+-+Round+2+Window+1+-+Interviews+with+applicants+and+contracted+commercial+assessors)
-- [COF Applicant research (opens in Sharepoint)](https://mhclg.sharepoint.com.mcas.ms/:p:/s/FundingServiceDesignTeam/ETNJ66o7J65IuEjvu1a7igAByZ9LtBMezxW998FGD_rDow?e=d3SD0L)
+- [Community Ownership Fund applicant research (opens in Sharepoint)](https://mhclg.sharepoint.com.mcas.ms/:p:/s/FundingServiceDesignTeam/ETNJ66o7J65IuEjvu1a7igAByZ9LtBMezxW998FGD_rDow?e=d3SD0L)
