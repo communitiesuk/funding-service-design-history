@@ -21,16 +21,8 @@ module.exports = function (eleventyConfig) {
       meta: {
         items: [
           {
-            href: "#",
-            text: "Item 1"
-          },
-          {
-            href: "#",
-            text: "Item 2"
-          },
-          {
-            href: "#",
-            text: "Item 3"
+            href: "https://fsd-pre-award.herokuapp.com/",
+            text: "Access Funding Prototype History"
           }
         ]
       }
