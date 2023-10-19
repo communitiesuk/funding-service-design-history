@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EX1. Funding design principles
+title: Funding design principles
 description: Six principles proven to make your fund perform.
 date: 2022-07-18
 author: Charles Reynolds-Talbot

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP6. We introduced word limits to questions to help applicants understand the degree of detail expected from their responses
-description: ///DRAFTING/// Summary
+title: We introduced word limits to questions to help applicants understand the degree of detail expected from their responses
+description: Summary
 date: 2023-10-11
 author: Martin Wright
 tags: ['learn', 'pre-award'] 
+users: ['applicants']
 screenshots:
   items:
     - text: Word limit component 

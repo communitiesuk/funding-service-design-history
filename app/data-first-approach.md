@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP4. We supported fund teams to take a 'data first' approach to building out their application forms. 
-description: ///DRAFTING/// Data-first questions resulted in a more efficient application and assessment process.
+title: We supported fund teams to take a 'data first' approach to building out their application forms. 
+description: Data-first questions resulted in a more efficient application and assessment process.
 date: 2023-10-11
 author: Martin Wright
 tags: ['learn', 'pre-award'] 
+users: ['fund policy']
 ---
 
 ## The problem

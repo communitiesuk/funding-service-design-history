@@ -55,6 +55,19 @@
         {% include "layouts/shared/related.njk" %}
       </div>
     {% endif %}
+
+    {% if users %}
+      <div class="govuk-grid-column-one-third-from-desktop">
+        <h2 class="govuk-heading-l">Users</h2>
+          <p>
+          {% for user in users %}
+            <strong class="govuk-tag govuk-tag--blue govuk-!-margin-1">
+              {{user}}
+            </strong><br />
+          {% endfor %}
+          </p>
+      </div>
+    {% endif %}
   </div>
 {% endblock %}
  </main>

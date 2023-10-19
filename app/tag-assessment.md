@@ -1,10 +1,11 @@
 ---
 layout: post
-title: ASS9. Assessors can tag applications in a flexible way that works for them
-description: ///DRAFTING/// Summary
+title: Assessors can tag applications in a flexible way that works for them
+description: Summary
 date: 2023-10-13
 author: Charles Reynolds-Talbot
 tags: ['learn', 'pre-award'] 
+users: ['assessors', 'fund policy']
 ---
 
 ## The problem

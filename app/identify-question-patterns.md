@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP2. Identify patterns for asking questions
+title: Identify patterns for asking questions
 description: Enabling data to be collected, based only on what the department needed to make a decision, in a structured and consistent way.
 date: 2023-10-11
 author: Charles Reynolds-Talbot
 tags: ['learn', 'pre-award'] 
+users: ['applicants', 'fund policy']
 ---
 
 ## The problem

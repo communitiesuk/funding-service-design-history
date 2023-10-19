@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP8. Providing guidance so applicants know what's expected in their responses
-description: ///DRAFTING/// Using content design best practices to provide prospectus and in-application guidance to support applicants.
+title: Providing guidance so applicants know what's expected in their responses
+description: Using content design best practices to provide prospectus and in-application guidance to support applicants.
 date: 2023-10-11
 author: Charles Reynolds-Talbot
 tags: ['learn', 'pre-award'] 
+users: ['applicants', 'fund policy']
 screenshots:
   items:
     - text: The Children and Young People's Resettlement Fund prospectus

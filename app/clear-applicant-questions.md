@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP1. Clear, concise questions so applicants know what is expected
+title: Clear, concise questions so applicants know what is expected
 description: We know that complex, open ended questions result in applicants throwing the kitchen sink at applications, spending lots of time and resource navigating application forms, writing convoluted answers and not doing their applications justice.
 date: 2023-09-13
 author: Charles Reynolds-Talbot
 tags: ['learn', 'pre-award'] 
+users: ['applicants', 'assessors', 'fund policy']
 ---
 
 ## The problem

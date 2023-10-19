@@ -1,10 +1,11 @@
 ---
 layout: post
-title: ASS2. Leads have oversight of the progress of assessment
+title: Leads have oversight of the progress of assessment
 description: Moving away from manually updated tracker spreadsheets that were prone to error or data loss.
 date: 2023-10-11
 author: Anisha Kanabar
 tags: ['learn', 'pre-award'] 
+users: ['assessors', 'fund policy']
 screenshots:
   items:
     - text: First round research prototype

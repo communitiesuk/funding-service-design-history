@@ -1,10 +1,11 @@
 ---
 layout: post
-title: ASS5. Fund teams can view application data in real time
-description: ///DRAFTING/// Giving fund teams real-time on-demand statistical data to help them plan resource allocation and reduce support requests
+title: Fund teams can view application data in real time
+description: Giving fund teams real-time on-demand statistical data to help them plan resource allocation and reduce support requests
 date: 2023-10-13
 author: Charles Reynolds-Talbot
 tags: ['learn', 'pre-award'] 
+users: ['assessors', 'fund policy']
 screenshots:
   items:
     - text: Real time application data example

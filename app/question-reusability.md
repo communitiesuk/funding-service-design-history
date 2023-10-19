@@ -1,10 +1,11 @@
 ---
 layout: post
-title: ASS6. Enable reusability of questions from fund to fund
+title: Enable reusability of questions from fund to fund
 description: Using a knowledge base of previous funding rounds to set new funds up for success and contribute insights back to the service.
 date: 2023-10-17
 author: Martin Wright
 tags: ['learn', 'pre-award'] 
+users: ['fund policy']
 screenshots:
   items:
     - text: Diagram of best practice learning across multiple funds

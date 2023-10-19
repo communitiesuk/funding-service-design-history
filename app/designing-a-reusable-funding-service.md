@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EX2. Designing a reusable funding service
+title: Designing a reusable funding service
 description: Exploring reusability for a funding service, to improve the user experience, reduce development costs, and increase the speed of launching new funds.
 date: 2023-04-20
 author: Charles Reynolds-Talbot

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: APP7. Enable collaborative applications
+title: Enable collaborative applications
 description: We enabled applicants to collaborate with their internal teams to complete their applications.
 date: 2023-10-18
 author: Martin Wright
 tags: ['learn', 'pre-award'] 
+users: ['applicants']
 ---
 
 ## The problem
