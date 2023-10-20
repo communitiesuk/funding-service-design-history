@@ -1,9 +1,12 @@
 ---
 layout: post
-title: We introduced word limits to questions to help applicants understand the degree of detail expected from their responses
-description: Summary
+title: Word limits on questions 
+description: Support applicants to understand the degree of detail expected from their responses.
 date: 2023-10-11
 author: Martin Wright
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['applicants']
 screenshots:

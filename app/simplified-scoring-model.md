@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Helping assessors to score applications wth a simplified model
-description: Introducing standardised scoring to reduce assessor training and improve cross-fund evaluation and comparison
+description: Introducing standardised scoring to reduce assessor training and improve cross-fund evaluation and comparison.
 date: 2023-10-13
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['assessors']
 screenshots:

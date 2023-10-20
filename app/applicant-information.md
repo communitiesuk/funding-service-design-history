@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Making sure applicants don't have to include too much information
-description: We ensured applicants only had to submit data that would be relevant to their application
+description: We ensured applicants only had to submit data that would be relevant to their application.
 date: 2023-10-11
 author: Martin Wright
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award']
 users: ['applicants', 'assessors', 'fund policy']
 ---

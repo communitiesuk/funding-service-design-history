@@ -1,9 +1,12 @@
 ---
 layout: post
-title: We supported fund teams to take a 'data first' approach to building out their application forms. 
-description: Data-first questions resulted in a more efficient application and assessment process.
+title: Take a 'data first' approach to building funding applications 
+description: Data-first questions result in a more efficient application and assessment process.
 date: 2023-10-11
 author: Martin Wright
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['fund policy']
 ---

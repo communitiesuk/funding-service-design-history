@@ -4,6 +4,9 @@ title: Enable reusability of questions from fund to fund
 description: Using a knowledge base of previous funding rounds to set new funds up for success and contribute insights back to the service.
 date: 2023-10-17
 author: Martin Wright
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['fund policy']
 screenshots:

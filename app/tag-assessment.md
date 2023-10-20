@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Assessors can tag applications in a flexible way that works for them
+title: Assessors can tag applications in a flexible way that works for them.
 description: Summary
 date: 2023-10-13
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['assessors', 'fund policy']
 ---

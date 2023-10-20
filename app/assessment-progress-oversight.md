@@ -4,6 +4,9 @@ title: Leads have oversight of the progress of assessment
 description: Moving away from manually updated tracker spreadsheets that were prone to error or data loss.
 date: 2023-10-11
 author: Anisha Kanabar
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['assessors', 'fund policy']
 screenshots:

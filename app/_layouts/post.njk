@@ -58,14 +58,20 @@
 
     {% if users %}
       <div class="govuk-grid-column-one-third-from-desktop">
-        <h2 class="govuk-heading-l">Users</h2>
-          <p>
-          {% for user in users %}
-            <strong class="govuk-tag govuk-tag--blue govuk-!-margin-1">
-              {{user}}
-            </strong><br />
-          {% endfor %}
-          </p>
+        <h2 id="the-problem" tabindex="-1" class="govuk-heading-l">
+          <a class="app-link--heading govuk-link" href="#users">
+            <span>Users</span>
+          </a>
+        </h2>
+        <ul class="govuk-list">
+        {% for user in users %}
+        <li>
+          <strong class="govuk-tag govuk-tag--blue govuk-!-margin-1">
+            {{user}}
+          </strong>
+        </li>
+        {% endfor %}
+        </ul>
       </div>
     {% endif %}
   </div>

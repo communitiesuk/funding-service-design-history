@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Telling applicants what we'll ask them before each section so they can prepare.
-description: We provided applicants with a list of what would be required of them for each section of the application so they could prepare their documentation in advance
+description: We provided applicants with a list of what's required so they could prepare their documentation in advance.
 date: 2023-10-11
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['applicants']
 screenshots:

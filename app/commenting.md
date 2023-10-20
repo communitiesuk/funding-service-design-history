@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Enable commentary to be considered as part of the decision making process
-description: We ensured commentary is considered as part of the decision making process
+description: Keeping comments from multiple users in all one place.
 date: 2023-10-13
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['assessors']
 screenshots:

@@ -4,7 +4,12 @@ title: Funding design principles
 description: Six principles proven to make your fund perform.
 date: 2022-07-18
 author: Charles Reynolds-Talbot
-tags: learn
+eleventyNavigation:
+    parent: Service offer
+    key: Service offer history
+tags: 
+    - learn 
+    - service-offer
 ---
 
 Six principles proven to make your fund perform

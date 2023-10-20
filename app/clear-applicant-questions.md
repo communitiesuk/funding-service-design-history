@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Clear, concise questions so applicants know what is expected
-description: We know that complex, open ended questions result in applicants throwing the kitchen sink at applications, spending lots of time and resource navigating application forms, writing convoluted answers and not doing their applications justice.
+description: We know that complex, open ended questions result in applicants throwing the kitchen sink at applications.
 date: 2023-09-13
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['applicants', 'assessors', 'fund policy']
 ---

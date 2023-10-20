@@ -40,18 +40,18 @@
     
     <div class="govuk-grid-column-full">
       <section class="grid--cards govuk-!-margin-bottom-6">
-    {% for item in collections.learn | eleventyNavigation(options.homeKey) | reverse %}    
+    {% for item in collections.learn | reverse %}    
         <div class="card">
         <a href="{{ item.url | url | pretty }}">
           <div class="card-text-header">
             <div class="card--text-header-container">
               <h2 class="govuk-heading-m">
-              {{ item.title }}
+              {{ item.data.title }}
               </h2>
             </div>
           </div>
               <div class="card-container">
-              <p> {{ item.excerpt }}</p>           
+              <p>{{ item.data.description }}</p>           
             </div>
             </a>
         </div>

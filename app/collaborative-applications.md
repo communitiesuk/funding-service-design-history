@@ -4,6 +4,9 @@ title: Enable collaborative applications
 description: We enabled applicants to collaborate with their internal teams to complete their applications.
 date: 2023-10-18
 author: Martin Wright
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['applicants']
 ---

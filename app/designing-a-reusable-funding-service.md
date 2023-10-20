@@ -4,7 +4,10 @@ title: Designing a reusable funding service
 description: Exploring reusability for a funding service, to improve the user experience, reduce development costs, and increase the speed of launching new funds.
 date: 2023-04-20
 author: Charles Reynolds-Talbot
-tags: learn
+eleventyNavigation:
+    parent: Service offer
+    key: Service offer history
+tags: ['learn', 'service-offer']
 ---
 
 ![Illustration of reusability for a funding service by Charles Reynolds-Talbot ](/designing-a-reusable-funding-service/reusability.png)

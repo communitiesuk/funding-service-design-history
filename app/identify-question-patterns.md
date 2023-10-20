@@ -4,6 +4,9 @@ title: Identify patterns for asking questions
 description: Enabling data to be collected, based only on what the department needed to make a decision, in a structured and consistent way.
 date: 2023-10-11
 author: Charles Reynolds-Talbot
+eleventyNavigation:
+    parent: Access funding
+    key: Pre-award history
 tags: ['learn', 'pre-award'] 
 users: ['applicants', 'fund policy']
 ---
