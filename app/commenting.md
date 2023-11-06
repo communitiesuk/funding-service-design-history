@@ -29,4 +29,9 @@ These comments would then be displayed at the point of scoring so they could be 
 ## Decisions
 Due to delivery constraints, we weren't able to implement everything we designed. This included the ability for users to edit and delete comments. We know, from research, that editing comments is important, especially in the case of errors and the team will look to implement this in the future. 
 
-We didn't add an explicit word limit to comments, so as not to constrain assessors and third-parties as any word limit would have been a guess. There is a technical word limit as a result of the database which is ~10,000 characters. From what we've observed, users are not at risk of exceeding that limit. 
+We didn't add an explicit word limit to comments, so as not to constrain assessors and third-parties as any word limit would have been a guess. There is a technical word limit as a result of the database which is ~10,000 characters. From what we've observed, users are not at risk of exceeding that limit.
+
+## Related
+
+- [See comments from a single section to support scoring and justification](/comments-support-scoring)
+
