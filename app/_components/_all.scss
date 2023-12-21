@@ -9,7 +9,7 @@
 
 .card {
     // position: relative;
-    display: flex;
+    display: inline-grid;
     background-color: #f3f2f1;
     border-bottom: 3px solid #012169;
     // max-width: 400px;
@@ -37,9 +37,9 @@
 }
 
 .card-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    // display: flex;
+    // flex-direction: column;
+    // justify-content: space-between;
     p {
         padding: 20px;
         margin: 0;
