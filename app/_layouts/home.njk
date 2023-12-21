@@ -35,12 +35,13 @@
     {% elif eleventyNavigation.key == options.homeKey %}
 
     <div class="govuk-grid-column-full">
-      <h2 class="govuk-heading-l govuk-!-font-size-27">Learn more</h2>
+      <h2 class="govuk-heading-l govuk-!-font-size-27">Latest posts</h2>
     </div>
     
     <div class="govuk-grid-column-full">
       <section class="grid--cards govuk-!-margin-bottom-6">
     {% for item in collections.learn | reverse %}    
+      {% if loop.index0 < 6 %}
         <div class="card">
         <a href="{{ item.url | url | pretty }}">
           <div class="card-text-header">
@@ -48,13 +49,16 @@
               <h2 class="govuk-heading-m">
               {{ item.data.title }}
               </h2>
+
             </div>
           </div>
               <div class="card-container">
+              <p class="govuk-body-s">{{ item.data.date | customDateFormat }}</p>
               <p>{{ item.data.description }}</p>           
             </div>
             </a>
         </div>
+      {% endif %}
     {% endfor %}
       </section>
       </div>
