@@ -11,7 +11,7 @@ backend:
   ### enable below lines for github integration ###
   # name: github
   # repo: surjithctly/neat-starter
-media_folder: "app/images"
+media_folder: "app/images/uploads"
 public_folder: "/"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
@@ -31,11 +31,17 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
-        label: "tags"
+        label: "Tags"
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["learn", "pre-award", "post-award", "service-offer"]
+      - widget: select
+        label: "Users"
+        name: "users"
+        multiple: true
+        create: true
+        options: ["applicants", "assessors", "fund-policy"]
   - label: "Post-award"
     name: "post-award"
     folder: "app/posts/post-award"
@@ -49,11 +55,17 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
-        label: "tags"
+        label: "Tags"
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["learn", "pre-award", "post-award", "service-offer"]
+      - widget: select
+        label: "Users"
+        name: "users"
+        multiple: true
+        create: true
+        options: ["applicants", "assessors", "fund-policy"]
   - label: "Service offer"
     name: "service-offer"
     folder: "app/posts/service-offer"
@@ -67,11 +79,17 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - widget: select
-        label: "tags"
+        label: "Tags"
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["learn", "pre-award", "post-award", "service-offer"]
+      - widget: select
+        label: "Users"
+        name: "users"
+        multiple: true
+        create: true
+        options: ["applicants", "assessors", "fund-policy"]
   - label: "Settings"
     name: "settings"
     editor:
