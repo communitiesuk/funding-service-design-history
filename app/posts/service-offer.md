@@ -7,4 +7,5 @@ pagination:
   reverse: true
   size: 50
 permalink: "service-offer/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+order: 3
 ---
