@@ -32,6 +32,16 @@ module.exports = function (eleventyConfig) {
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
 
+  // limit filter
+  eleventyConfig.addFilter("limit", function(array, limit) {
+    return array.slice(0, limit);
+  });
+
+// date filter
+    eleventyConfig.addFilter('customDateFormat', function (date) {
+      const options = { day: 'numeric', month: 'long', year: 'numeric' };
+      return new Intl.DateTimeFormat('en-UK', options).format(new Date(date));
+    });
   // Config
 
   return {
