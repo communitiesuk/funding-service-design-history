@@ -7,12 +7,13 @@ eleventyExcludeFromCollections: true
 backend:
   # Use netlify identity as backend
   name: git-gateway
-  branch: master
+  branch: main
+  repo: communitiesuk/funding-service-design-history
   ### enable below lines for github integration ###
   # name: github
-  # repo: surjithctly/neat-starter
+  # repo: communitiesuk/funding-service-design-history
 media_folder: "app/images/uploads"
-public_folder: "/"
+public_folder: "uploads"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
