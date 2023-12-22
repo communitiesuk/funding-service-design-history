@@ -4,7 +4,7 @@ title: (TEST - NOT FINISHED) Reducing the overload of filtering  options with
 description: Introducing filter options that dynamically update to provide a
   more tailored and responsive user experience.
 author: Claire Short
-date: 2023-12-22T00:00:52.638Z
+date: 2023-12-22
 tags:
   - post-award
 users:
