@@ -1,5 +1,5 @@
 ---
-title: (TEST - NOT FINISHED) Reducing the overload of filtering  options with
+title: (TEST - NOT FINISHED) Reducing the overload of filtering options with
   dynamic filtering
 description: Introducing filter options that dynamically update to provide a
   more tailored and responsive user experience.
