@@ -2,7 +2,7 @@
 layout: post
 title: Fund teams can view application data in real time
 description: Giving fund teams real-time on-demand statistical data to help them plan resource allocation and reduce support requests.
-date: 2023-10-13
+date: 2023-10-10
 author: Charles Reynolds-Talbot
 eleventyNavigation:
     parent: Access funding

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Assessors can tag applications in a flexible way that works for them.
-description: Summary
+title: Assessors can tag applications in a flexible way that works for them
+description: Teams needed freedom to follow their individual workflows.
 date: 2023-10-13
 author: Charles Reynolds-Talbot
 eleventyNavigation:

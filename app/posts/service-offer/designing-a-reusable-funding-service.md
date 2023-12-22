@@ -10,7 +10,7 @@ eleventyNavigation:
 tags: ['learn', 'service-offer']
 ---
 
-![Illustration of reusability for a funding service by Charles Reynolds-Talbot ](/designing-a-reusable-funding-service/reusability.png)
+![Illustration of reusability for a funding service by Charles Reynolds-Talbot ](/uploads/reusability.png)
 
 ### 1. Content
 

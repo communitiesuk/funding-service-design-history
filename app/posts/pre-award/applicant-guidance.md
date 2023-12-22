@@ -2,7 +2,7 @@
 layout: post
 title: Providing guidance so applicants know what's expected in their responses
 description: Using content design best practices to provide prospectus and in-application guidance to support applicants.
-date: 2023-10-11
+date: 2023-10-04
 author: Charles Reynolds-Talbot
 eleventyNavigation:
     parent: Access funding

@@ -2,7 +2,7 @@
 layout: post
 title: Upload documentation only when 'hard evidence' is required
 description: Avoiding the use of documents unless the data can't be collected any other way.
-date: 2023-10-15
+date: 2023-10-16
 author: Anisha Kanabar
 eleventyNavigation:
     parent: Access funding

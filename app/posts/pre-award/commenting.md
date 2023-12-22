@@ -2,7 +2,7 @@
 layout: post
 title: Enable commentary to be considered as part of the decision making process
 description: Keeping comments from multiple users in all one place.
-date: 2023-10-13
+date: 2023-10-06
 author: Charles Reynolds-Talbot
 eleventyNavigation:
     parent: Access funding

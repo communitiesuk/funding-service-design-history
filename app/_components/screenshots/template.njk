@@ -23,7 +23,7 @@
     <h{{ headingLevel + 1 }} class="govuk-heading-m" tabindex="-1">
       <a class="app-link--heading govuk-link" href="#{{ itemId }}">{{ itemTitle }}</a>
     </h{{ headingLevel + 1 }}>
-    <a class="govuk-link" href="{{ file }}"><img src="{{ file }}" alt="{{ alt }}"></a>
+    <a class="govuk-link" href="/uploads/{{ file }}"><img src="/uploads/{{ file }}" alt="{{ alt }}"></a>
     {%- if item.caption %}<figcaption>{{ item.caption | markdown | safe }}</figcaption>{% endif %}
   </figure>
 {%- endfor %}

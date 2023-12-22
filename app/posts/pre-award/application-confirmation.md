@@ -2,7 +2,7 @@
 layout: post
 title: Providing applicants with confirmation of their submission
 description: Increasing confidence that all application data had been received
-date: 2023-10-31
+date: 2023-10-27
 author: Anisha Kanabar
 eleventyNavigation:
     parent: Access funding

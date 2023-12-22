@@ -2,7 +2,7 @@
 layout: post
 title: Word limits on questions 
 description: Support applicants to understand the degree of detail expected from their responses.
-date: 2023-10-11
+date: 2023-10-02
 author: Martin Wright
 eleventyNavigation:
     parent: Access funding

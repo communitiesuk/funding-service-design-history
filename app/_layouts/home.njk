@@ -53,8 +53,10 @@
             </div>
           </div>
               <div class="card-container">
-              <p class="govuk-body-s">{{ item.data.date | customDateFormat }}</p>
-              <p>{{ item.data.description }}</p>           
+              <p>
+                <span class="govuk-!-font-size-14 govuk-caption-m">{{ item.data.date | customDateFormat }}</span>
+                {{ item.data.description }}
+              </p>               
             </div>
             </a>
         </div>

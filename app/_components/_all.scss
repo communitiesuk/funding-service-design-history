@@ -20,6 +20,9 @@
     :hover p, :focus-within p {
         background-color: #012169;
         color: #fff;
+        .govuk-caption-m {
+            color: #fff;
+        }
     }
     a, .govuk-link {
         text-decoration: none;

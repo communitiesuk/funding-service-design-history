@@ -2,7 +2,7 @@
 layout: post
 title: Take a 'data first' approach to building funding applications 
 description: Data-first questions result in a more efficient application and assessment process.
-date: 2023-10-11
+date: 2023-10-09
 author: Martin Wright
 eleventyNavigation:
     parent: Access funding

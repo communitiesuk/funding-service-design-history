@@ -2,7 +2,7 @@
 layout: post
 title: Assessors view all of an applicants response in one place
 description: Removing the need for multiple tabs and windows to view and assess submitted content
-date: 2023-10-31
+date: 2023-10-30
 author: Anisha Kanabar
 eleventyNavigation:
     parent: Access funding

@@ -20,12 +20,13 @@
   <div class="govuk-width-container">
     {% block beforeContent %}{% endblock %}
     <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
+    
 
 {% block content %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
-        <p class="app-document-header__metadata">
-        <span class="govuk-visually-hidden">Posted on </span><time datetime="{{ date | date }}">{{ date | date("d LLLL y") }}</time>
+        <p class="app-document-header__metadata govuk-!-font-size-14 govuk-caption-m">  
+        <span class="govuk-visually-hidden">Posted on </span><time datetime="{{ date | date }}">{{ date | date("d LLLL y") }}</time> by {{ author }}
         </p>
     </div>
 

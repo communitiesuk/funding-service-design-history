@@ -2,7 +2,7 @@
 layout: post
 title: Making sure applicants don't have to include too much information
 description: We ensured applicants only had to submit data that would be relevant to their application.
-date: 2023-10-11
+date: 2023-10-05
 author: Martin Wright
 eleventyNavigation:
     parent: Access funding

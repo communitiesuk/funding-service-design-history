@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Telling applicants what we'll ask them before each section so they can prepare.
+title: Telling applicants what we'll ask them before each section so they can prepare
 description: We provided applicants with a list of what's required so they could prepare their documentation in advance.
-date: 2023-10-11
+date: 2023-09-22
 author: Charles Reynolds-Talbot
 eleventyNavigation:
     parent: Access funding
