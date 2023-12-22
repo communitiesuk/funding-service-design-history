@@ -3,6 +3,8 @@
 {# Load any GOV.UK Frontend components #}
 {% from "govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
 
+{% block scripts %}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{% endblock %}
+
 {% block content %}
   {{ content }}
   <div class="govuk-grid-row">
