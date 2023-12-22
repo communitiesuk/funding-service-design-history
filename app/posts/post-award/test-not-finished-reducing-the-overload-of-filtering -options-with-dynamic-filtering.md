@@ -1,10 +1,10 @@
 ---
-title: (TEST - NOT FINISHED) Reducing the overload of filtering  options with
+title: (TEST - NOT FINISHED) Reducing the overload of filtering options with
   dynamic filtering
 description: Introducing filter options that dynamically update to provide a
   more tailored and responsive user experience.
 author: Claire Short
-date: 2023-12-22
+date: 2023-12-22T00:00:00.000Z
 tags:
   - post-award
 users:
