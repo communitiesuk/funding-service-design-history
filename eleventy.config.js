@@ -21,6 +21,10 @@ module.exports = function (eleventyConfig) {
       meta: {
         items: [
           {
+            href: "/admin/",
+            text: "Add/edit content via CMS"
+          },
+          {
             href: "https://fsd-pre-award.herokuapp.com/",
             text: "Access Funding Prototype History"
           }
