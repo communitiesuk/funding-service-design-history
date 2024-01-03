@@ -11,13 +11,9 @@ tags:
 users:
   - applicants
 ---
-/// The problem
-
-
+### The problem
 
 Users find it difficult to quickly sort through big sets of data and filter out what data they need. The current way in which the Find Monitoring Data tool filters data is not easy to use, or intuitive. It doesn't let users easily create and find the specific data they're looking for. This makes it difficult for users to smoothly and efficiently sort through big sets of data, making their experience with processing data poor.
-
-
 
 ### What we did 
 
@@ -38,8 +34,6 @@ This is where we decided that applying a dynamic filter would answer all the use
 Cognitive overload can happen when your brain gets too much information at once, making it feel overwhelmed and stressed. It's like trying to carry too many shopping bags at the same time – it's just too much to handle, and you might drop something. In the same way, cognitive overload can make it hard for your brain to process and understand things when there's too many details, information or tasks at once.
 
 In order to make the dynamic filtering possible, we introduced a page by page filtering, creating six individual filtering pages. Each filter page is related to a specific category, for example, filter by reporting period, region, or funded organisation. Each time a user makes a selection on a filtering page and clicks the 'continue filtering button' it will lock in their filter selections and the dynamic filtering will come into play; on the next page, they will only see filter options that now fall under the categories of their previous selections. 
-
-
 
 \[XX IMAGES]
 
