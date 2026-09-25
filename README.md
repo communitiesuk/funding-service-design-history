@@ -1,3 +1,5 @@
+**ARCHIVED - this repository is no longer actively used**
+
 # Design history for GOV.UK services
 
 A place for you to document your GOV.UK service designs.
